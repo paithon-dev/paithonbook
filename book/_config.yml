@@ -1,15 +1,16 @@
 title: Paithon Book
-author: Francesco Messina #Add your own name here
+author: © 2024 paithon.it. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY-NC-ND <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc-eu.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="">
 logo: figures/logo.png #add your own logo here
-
-execute:
-  execute_notebooks: force
+copyright: CC BY-NC-ND
 
 only_build_toc_files: true
 
+execute:
+  execute_notebooks: "off"
+
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://paithon-dev.github.io/paithonbook/" #Replace this with your own URL
+  baseurl :  "https://www.paithon.it/book" #Replace this with your own URL
   home_page_in_navbar       : true
 
 sphinx:
@@ -21,6 +22,8 @@ sphinx:
       exclude_patterns: ["**/_*.yml", "**/*.md", "**/*.ipynb"]
     html_theme_options:
       repository_url: "https://github.com/paithon-dev/paithonbook" #add your own repo URL here
+      use_download_button: false
+      use_edit_page_button: false
       use_repository_button: true
       use_issues_button : true
       launch_buttons:
