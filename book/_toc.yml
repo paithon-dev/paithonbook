@@ -4,7 +4,10 @@ root: intro.md
 parts:
   - caption: Capitoli
     chapters:
-    - file: some_content/overview.md
+    - file: capitolo1/overview.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: capitolo1/text_and_code.ipynb
+    - file: capitolo2/overview.md
+      sections:
+      - file: capitolo2/text_and_code.ipynb
     - file: references.md
