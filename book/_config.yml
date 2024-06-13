@@ -1,15 +1,15 @@
-title: Paithon
+title: Paithon Book
 author: Francesco Messina #Add your own name here
 logo: figures/logo.png #add your own logo here
 
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: force
 
 only_build_toc_files: true
 
 html:
   favicon : "figures/favicon.ico"
-  baseurl :  "https://www.paithon.it/book" #Replace this with your own URL
+  baseurl :  "https://paithon-dev.github.io/paithonbook/" #Replace this with your own URL
   home_page_in_navbar       : true
 
 sphinx:
