@@ -4,10 +4,10 @@ root: intro.md
 parts:
   - caption: Paithon Book
     chapters:
-    - file: book/capitolo1/overview.md
+    - file: capitolo1/overview.md
       sections:
-      - file: book/capitolo1/text_and_code.ipynb
-    - file: book/capitolo2/overview.md
+      - file: capitolo1/text_and_code.ipynb
+    - file: capitolo2/overview.md
       sections:
-      - file: book/capitolo2/text_and_code.ipynb
+      - file: capitolo2/text_and_code.ipynb
     - file: references.md
