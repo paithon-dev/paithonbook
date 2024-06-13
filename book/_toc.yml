@@ -2,7 +2,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Capitoli
+  - caption: Paithon Book
     chapters:
     - file: book/capitolo1/overview.md
       sections:
