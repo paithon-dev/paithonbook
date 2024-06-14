@@ -1,7 +1,7 @@
 title: Paithon Book
 author: paithon.it © Copyright 2024. Questo lavoro è licenziato sotto la
-        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">
-        CC BY-NC-SA
+        <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank" rel="license noopener noreferrer">
+        CC BY-NC-ND 4.0
         </a>
         <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
         src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="cc">
@@ -10,9 +10,9 @@ author: paithon.it © Copyright 2024. Questo lavoro è licenziato sotto la
         <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
         src="https://mirrors.creativecommons.org/presskit/icons/nc-eu.svg" alt="nc-eu">
         <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-        src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="sa">
+        src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="nd">
 logo: figures/logo.png #add your own logo here
-copyright: CC BY-NC-SA
+copyright: CC BY-NC-ND 4.0
 
 only_build_toc_files: true
 

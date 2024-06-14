@@ -6,7 +6,9 @@ parts:
     chapters:
     - file: capitolo1/overview.md
       sections:
-      - file: capitolo1/text_and_code.ipynb
+      - file: capitolo1/massimo_comune_divisore.ipynb
+      - file: capitolo1/applicazioni.md
+      - file: capitolo1/conclusione.md
     - file: capitolo2/overview.md
       sections:
       - file: capitolo2/text_and_code.ipynb
