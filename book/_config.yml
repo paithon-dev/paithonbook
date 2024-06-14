@@ -1,5 +1,16 @@
 title: Paithon Book
-author: © 2024 paithon.it. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer"">CC BY-NC-SA <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc-eu.svg" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="">
+author: paithon.it © Copyright 2024. Questo lavoro è licenziato sotto la
+        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="license noopener noreferrer">
+        CC BY-NC-SA
+        </a>
+        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+        src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="cc">
+        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+        src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="by">
+        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+        src="https://mirrors.creativecommons.org/presskit/icons/nc-eu.svg" alt="nc-eu">
+        <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
+        src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="sa">
 logo: figures/logo.png #add your own logo here
 copyright: CC BY-NC-SA
 
