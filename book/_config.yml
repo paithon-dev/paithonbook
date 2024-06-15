@@ -23,6 +23,10 @@ html:
   favicon : "figures/favicon.ico"
   baseurl :  "https://www.paithon.it/book" #Replace this with your own URL
   home_page_in_navbar       : true
+  extra_navbar: |
+      <div>
+          <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="paithon.it" data-color="#BD5FFF" data-emoji="🍕"  data-font="Cookie" data-text="Offrimi una pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+      </div>
 
 sphinx:
   config:
