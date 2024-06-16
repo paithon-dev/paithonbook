@@ -17,12 +17,12 @@ copyright: CC BY-NC-ND 4.0
 only_build_toc_files: true
 
 execute:
-  execute_notebooks: "off"
+  execute_notebooks: "auto"
 
 html:
   favicon : "figures/favicon.ico"
   baseurl :  "https://www.paithon.it/book" #Replace this with your own URL
-  home_page_in_navbar       : true
+  home_page_in_navbar: true
   extra_navbar: |
       <div>
           <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="paithon.it" data-color="#BD5FFF" data-emoji="🍕"  data-font="Cookie" data-text="Offrimi una pizza" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
@@ -40,9 +40,10 @@ sphinx:
       use_download_button: false
       use_edit_page_button: false
       use_repository_button: true
-      use_issues_button : true
+      use_issues_button: true
       launch_buttons:
-        thebe: true
+        thebe: false
+        colab_url: "https://colab.research.google.com"
     html_show_copyright: false
   extra_extensions:
     - sphinx.ext.imgconverter
