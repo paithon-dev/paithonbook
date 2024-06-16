@@ -42,7 +42,7 @@ sphinx:
       use_repository_button: true
       use_issues_button: true
       launch_buttons:
-        thebe: false
+        thebe: true
         colab_url: "https://colab.research.google.com"
     html_show_copyright: false
   extra_extensions:

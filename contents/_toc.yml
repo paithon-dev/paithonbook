@@ -1,0 +1,13 @@
+format: jb-book
+root: intro.md
+
+parts:
+  - caption: Paithon Book
+    chapters:
+    - file: Introduzione/overview.md
+      sections:
+      - file: Introduzione/massimo_comune_divisore.ipynb
+      - file: Introduzione/applicazioni.md
+      - file: Introduzione/conclusione.md
+    - file: Python/overview.md
+    - file: references.md
